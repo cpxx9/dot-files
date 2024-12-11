@@ -170,3 +170,4 @@ function parse_git_dirty {
 }
 
 export PS1="\[\e[32m\]\u\[\e[m\]\[\e[36m\]@\[\e[m\]\[\e[32m\]\A\[\e[m\]\[\e[31m\]\`parse_git_branch\`\[\e[m\]\[\e[36m\]:\[\e[m\]\[\e[35m\]\w\[\e[m\]\[\e[36m\]\\$\[\e[m\] "
+export DATABASE_PASSWORD="lqKWje95%"
